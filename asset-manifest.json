@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/monster-rolex/static/css/main.6991fc1a.chunk.css",
+    "main.js": "/monster-rolex/static/js/main.9dfead69.chunk.js",
+    "main.js.map": "/monster-rolex/static/js/main.9dfead69.chunk.js.map",
+    "runtime-main.js": "/monster-rolex/static/js/runtime-main.184dafcc.js",
+    "runtime-main.js.map": "/monster-rolex/static/js/runtime-main.184dafcc.js.map",
+    "static/js/2.7545d65d.chunk.js": "/monster-rolex/static/js/2.7545d65d.chunk.js",
+    "static/js/2.7545d65d.chunk.js.map": "/monster-rolex/static/js/2.7545d65d.chunk.js.map",
+    "index.html": "/monster-rolex/index.html",
+    "static/css/main.6991fc1a.chunk.css.map": "/monster-rolex/static/css/main.6991fc1a.chunk.css.map",
+    "static/js/2.7545d65d.chunk.js.LICENSE.txt": "/monster-rolex/static/js/2.7545d65d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.184dafcc.js",
+    "static/js/2.7545d65d.chunk.js",
+    "static/css/main.6991fc1a.chunk.css",
+    "static/js/main.9dfead69.chunk.js"
+  ]
+}
